@@ -1,1 +1,1 @@
-Git Tutorial Lizzy
+print("UChicago Student Resource Guide")
