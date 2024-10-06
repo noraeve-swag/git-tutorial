@@ -1,1 +1,2 @@
-print("UChicago Student Resource Guide")
+Git Tutorial Lizzy
+UChicago Student Resource Guide
